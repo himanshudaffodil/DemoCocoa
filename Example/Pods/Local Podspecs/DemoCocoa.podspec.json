@@ -1,0 +1,22 @@
+{
+  "name": "DemoCocoa",
+  "version": "0.1.0",
+  "summary": "A short description of DemoCocoa.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/DemoCocoa",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Sunita Kumari": "sunita.kumari@daffodilsw.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/DemoCocoa.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DemoCocoa/Classes/**/*"
+}
